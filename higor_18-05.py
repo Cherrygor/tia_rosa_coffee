@@ -1,6 +1,6 @@
 cliente={}#Lista que vai guardar os clientes cadastrados
 
-print('\nSeja bem-vindo(a) ao Café da Tia Joana!\n')
+print('\nSeja bem-vindo(a) ao Café da Tia Rosa!\n')
 
 #Loop de Cadastro
 while True:
@@ -32,7 +32,7 @@ cardapio = {
     2:{'nome':'Pão de Françês R$1,00','preco':1.00},
     3:{'nome':'Misto Quente R$4,00','preco':4.00},
     4:{'nome':'Pão com Ovo R$4,00','preco':4.00},
-    5:{'nome':'Sanduiche Natual R$5,00','preco':5.00},
+    5:{'nome':'Sanduiche Natural R$5,00','preco':5.00},
     6:{'nome':'Café R$1,00','preco':1.00},
     7:{'nome':'Pingado R$2,00','preco':2.00},
     8:{'nome':'Suco de Laranja R$6,00','preco':6.00},
