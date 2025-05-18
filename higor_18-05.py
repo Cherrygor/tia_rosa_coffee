@@ -96,4 +96,4 @@ while True:
         break
     else:
         print('\nNúmero inválido, tente novamente\n') #caso formaa de pagemento seja inválida
-    print("\nTenha um ótimo dia, volte sempre!\n")
+print("\nTenha um ótimo dia, volte sempre!\n")
